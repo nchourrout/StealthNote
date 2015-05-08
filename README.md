@@ -1,4 +1,4 @@
-# KGFloatingDrawer
+# StealthNote
 
 StealthNote is a Swift app that allows you to write notes and send emails to predefined recipients without looking at the screen.
 
@@ -18,3 +18,4 @@ This app can be found on the App Store [here]()
  - [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer)
  - [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)
  - [KGFloatingDrawer](https://github.com/KyleGoddard/KGFloatingDrawer)
+ - [Smooth Freehand Drawing on iOS](http://code.tutsplus.com/tutorials/smooth-freehand-drawing-on-ios--mobile-13164)
