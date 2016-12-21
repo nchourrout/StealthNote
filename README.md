@@ -1,6 +1,6 @@
 # StealthNote
 
-StealthNote is a Swift app that allows you to write notes without looking at the screen.
+StealthNote is a Swift app that allows you to write notes and share them via email without looking at the screen.
 
 I use it to gather ideas when falling asleep but it can be useful for writing messages from your pocket or for people with disabilities.
 
