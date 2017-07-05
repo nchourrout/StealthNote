@@ -9,6 +9,4 @@ It uses the [graffiti](http://en.wikipedia.org/wiki/Graffiti_%28Palm_OS%29) syst
 # Credits
 
  - [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer)
- - [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)
- - [KGFloatingDrawer](https://github.com/KyleGoddard/KGFloatingDrawer)
  - [Smooth Freehand Drawing on iOS](http://code.tutsplus.com/tutorials/smooth-freehand-drawing-on-ios--mobile-13164)
